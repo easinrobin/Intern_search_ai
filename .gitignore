@@ -173,7 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-src/__pycache__/search.cpython-313.pyc
 processed_products.csv
 product_embeddings.npy
 product_index.faiss
